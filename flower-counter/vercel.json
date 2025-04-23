@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/api/tokenSupply", "destination": "/api/tokenSupply.js" }]
+}
